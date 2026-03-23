@@ -160,7 +160,7 @@ MyShots उन व्यक्तियों या क्रिएटर्स
 
 &#x20;   <!-- <div class="image-container">
 
-&#x20;       <img src="your\_image\_name\_1.jpg" alt="A beautiful landscape">
+&#x20;       <img src="1.png" alt="A beautiful landscape">
 
 &#x20;       <p>यह एक खूबसूरत लैंडस्केप है।</p>
 
